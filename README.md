@@ -1,8 +1,8 @@
 # FunctionsPy
 # fitur
-  Class Requests"\n"
-  Class Display
-  Class Functions
+  .Class Requests
+  .Class Display
+  .Class Functions
   Clas Captcha Xevil & Multtibot
   Class iconcaptcha
 #Exmpel
