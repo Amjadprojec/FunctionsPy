@@ -1,6 +1,6 @@
 # FunctionsPy
 # fitur
-  Class Requests
+  Class Requests"\n"
   Class Display
   Class Functions
   Clas Captcha Xevil & Multtibot
