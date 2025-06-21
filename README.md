@@ -1,4 +1,5 @@
-##Functions Untuk scripting
+#Functions Untuk scripting
+
 #fitur
 -class Requests
 -class Functions
